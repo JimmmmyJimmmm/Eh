@@ -1,0 +1,8 @@
+{
+  "token": "
+MzQ4NTczMTU2MDAyMzY1NDQw.DHo6Dw.a6jATWzZTlyILYSWYUupVzlBdRs",
+  "name": "GD STATS",
+  "playing": "made by Nexrem",
+  "command_prefix": "^",
+  "getTarget": "http://discord-gd-stats-bot.herokuapp.com/wake.txt"
+}
